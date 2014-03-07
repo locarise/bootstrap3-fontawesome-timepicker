@@ -1,10 +1,10 @@
-Timepicker for Twitter Bootstrap 3.x
-=======
+Timepicker for Twitter Bootstrap 3.x and Font-Awesome
+=====================================================
 
-Timepicker for Twitter Bootstrap 3.x [![Build Status](https://secure.travis-ci.org/jdewit/bootstrap-timepicker.png)](http://travis-ci.org/jdewit/bootstrap-timepicker)
+Timepicker for Twitter Bootstrap 3.x 
 ------------------------------------
 
-A simple timepicker component for Twitter Bootstrap.
+A simple timepicker component for Twitter Bootstrap that uses Font Awesome.
 
 Demos & Documentation
 =====================
